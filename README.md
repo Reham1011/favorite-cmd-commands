@@ -1,4 +1,3 @@
-
 # __An amazing Website__</span>
   ### _Consist of HTML and CSS_
 
@@ -32,7 +31,7 @@ _ _ _
   </html>
 
   ```
-  * # __A summary description for the html__
+   * # __A summary description for the html__
   <p> HyperText Markup Language (HTML) is the set of markup symbols or codes inserted into a file intended for display on the Internet. The markup tells web browsers how to display a web page's words and images.
  * Each individual piece markup code (which would fall between "<" and ">" characters) is referred to as an element, though many people also refer to it as a tag. Some elements come in pairs that indicate when some display effect is to begin and when it is to end.
  HTML is the universal markup language for the Web. HTML lets you format text, add graphics, create links, input forms, frames and tables, etc., and save it all in a text file that any browser can read and display.</p>
@@ -70,3 +69,13 @@ _ _ _
 Contrary to popular misconception, JavaScript is not "Interpreted Java". In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so).</p>
 ___
   
+
+  * # Header one
+    ```  Navagation Bar  ```
+
+  * ## Header Two 
+
+    ``` The body of the page ```
+  * ### Header three 
+   
+    ``` The footer of the page ```
